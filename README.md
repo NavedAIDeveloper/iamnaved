@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NavedAIDeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="NavedAIDeveloper" /> </p>
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=30,ubuntu&color"black"=16A085&center=true&lines=Naved+Akbar'/>
+<img src='https://readme-typing-svg.herokuapp.com/?font=30,ubuntu&color"red"=16A085&center=true&lines=Naved+Akbar'/>
 </div>
 
 
