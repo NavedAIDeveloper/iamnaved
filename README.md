@@ -90,10 +90,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsamkhan&show_icons=true&locale=en" alt="iamsamkhan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NavedAIDeveloper&show_icons=true&locale=en" alt="NavedAIDeveloper" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsamkhan&" alt="iamsamkhan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NavedAIDeveloper&" alt="" /></p>
 
 
-<h3 align="left">Shamshad Ahmed:---->Data Scientist Journey have been going since AUG-2016 ,from GD Goenka University.</h3>
-<img align="right" alt="coding" width="1400" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
