@@ -1,7 +1,7 @@
 
 <h2 align="center">  Hey! Nice to see you. </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NavedAIDeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="iamsamkhan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NavedAIDeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="NavedAIDeveloper" /> </p>
 <div align='center'>
 <img src='https://readme-typing-svg.herokuapp.com/?font=30,ubuntu&color"black"=16A085&center=true&lines=Naved+Akbar'/>
 </div>
@@ -30,16 +30,16 @@
 
 ## **CODING STATS**
 <p align = 'center'>
-    <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=iamsamkhan&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
+    <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=NavedAIDeveloper&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
     
 </p>
 
 ## **STREAK STATS**
 <p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=iamsamkhan&theme=gotham&hide_border=true'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=NavedAIDeveloper&theme=gotham&hide_border=true'>
    
 </p>
-<img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamsamkhan&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/>
+<img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NavedAIDeveloper&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/>
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
@@ -69,17 +69,17 @@
 
 ## **CONNECT WITH ME**:
 <p align="left">
-<a href = "https://www.linkedin.com/in/iamsamkhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "https://twitter.com/iamsamkhan1_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href = "https://www.instagram.com/iam.samkhan1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href='https://github.com/iamsamkhan?tab=followers'>
-   <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/iamsamkhan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
+<a href = "https://www.linkedin.com/in/NavedAIDeveloper/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://twitter.com/NavedAIDeveloper"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href = "https://www.instagram.com/NavedAIDeveloper/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href='https://github.com/NavedAIDeveloper?tab=followers'>
+   <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/NavedAIDeveloper?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
 <br>
 </a>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsamkhan" alt="iamsamkhan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NavedAIDeveloper" alt="NavedAIDeveloper" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
