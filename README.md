@@ -39,7 +39,8 @@
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=NavedAIDeveloper&theme=gotham&hide_border=true'>
 ![Uploading QWc9.gif…]()
 
-    
+    ![Alt Text]([relative_path_to_gif_file.gif](https://github.com/NavedAIDeveloper/iamnaved/blob/main/QWc9.gif))
+
    
 </p>
 <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NavedAIDeveloper&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/>
