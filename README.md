@@ -24,7 +24,7 @@
 👨‍💻 Completed **Data Science certificates.** 
 
 
-<img align="right" alt="coding" width="1800" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
+<img align="right" alt="coding" width="1800" src="https://adcy.io/wp-content/uploads/2020/04/[anti-hacking.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fai&psig=AOvVaw2_aPujChpEv8yURXqW5cCr&ust=1707727057098000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjH5pbxooQDFQAAAAAdAAAAABAE)">
 
 
 
